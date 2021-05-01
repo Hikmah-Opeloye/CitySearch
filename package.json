@@ -1,0 +1,15 @@
+{
+  "name": "citysearch",
+  "version": "1.0.0",
+  "description": "Search feature for a list of cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -w"
+  },
+  "keywords": [
+    "Typescript",
+    "search"
+  ],
+  "author": "Hikmah",
+  "license": "ISC"
+}
