@@ -1,7 +1,7 @@
 import { FindCity } from "./test.js";
 import { Finder } from "./refactor.js";
 //search string
-let city = "saint.";
+let city = "saint";
 //convert search string to uppercase
 city = city.toUpperCase();
 //create an instance of findcity
